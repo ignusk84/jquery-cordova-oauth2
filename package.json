@@ -1,0 +1,37 @@
+{
+  "name": "$oath2",
+  "filename": "build/cordova.oauth2.js",
+  "main": "cordova.oauth2.js",
+  "version": "0.1.1",
+  "description": "Module version of original by https://github.com/krisrak/jquery-cordova-oauth2",
+  "keywords": [
+    "Cordova",
+    "jQuery",
+    "oath2"
+  ],
+  "maintainers": [
+    {
+      "name": "Ignus Kritzinger",
+      "web": "https://www.linkedin.com/profile/view?id=AAMAAAB0n7UBPLppKz1XlEzdjk206JMNS9HLw_Q&trk=hp-identity-name"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ignusk84/jquery-cordova-oauth2"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {
+    "jquery": "3.1.0"
+  },
+  "devDependencies": {
+    "jquery": "3.1.0",
+  },
+  "scripts": {
+     
+  }
+}
