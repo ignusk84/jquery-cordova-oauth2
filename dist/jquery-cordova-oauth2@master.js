@@ -1,0 +1,1 @@
+module.exports = require("github:krisrak/jquery-cordova-oauth2@master/cordova.oauth2.js");
